@@ -1,0 +1,18 @@
+{
+  "name": "textfill",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:miraks/textfill.js.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "lodash": "^3.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
